@@ -8,7 +8,7 @@
 
 ## Goal:
 ```sh
-Get The flag
+Get The Root Flag
 ```
 
 ### Good Luck !
