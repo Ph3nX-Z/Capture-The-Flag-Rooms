@@ -1,5 +1,5 @@
 # Ph3nX-CTF-1
-
+#### Keywords : ssh, http, privesc
 ## Installation
 
 ```sh
