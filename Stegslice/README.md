@@ -1,5 +1,5 @@
 # Stegslice
-#### Keywords : Ssh, Http, Privesc
+#### Keywords : Ssh, Privesc
 ## Installation:
 ```sh
 - Dowload The ova file 
