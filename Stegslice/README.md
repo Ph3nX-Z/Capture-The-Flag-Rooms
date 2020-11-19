@@ -1,5 +1,5 @@
 # Stegslice
-
+#### Ssh, Http, Privesc
 ## Installation:
 ```sh
 - Dowload The ova file 
