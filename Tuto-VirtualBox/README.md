@@ -7,7 +7,7 @@
 ## Select Ova file
 ![](tuto1,5.png)
 
-## Generate New Mac Adress 
+## Generate New Mac Adresses
 ![](tuto2.png)
 
 ## Click on Import
