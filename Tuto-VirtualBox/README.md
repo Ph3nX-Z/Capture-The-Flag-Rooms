@@ -24,7 +24,8 @@
 
 ## Your Machine Isn't On The Network:
 * Check if the internet acces is on bridge mod
-* check if you allocated at least 1gb of ram
+* Check if you allocated at least 1gb of ram to the vm
 * Check if your router is on
+* Check if you generated a new pair of mac adresses (step 3)
 
 ## Clear The Room :)
