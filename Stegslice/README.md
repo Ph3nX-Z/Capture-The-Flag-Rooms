@@ -2,7 +2,7 @@
 #### Keywords : Ssh, Privesc
 ## Installation:
 ```sh
-- Dowload The ova file 
+- Dowload The ova file below
 - Downloads Github's files
 - Install The ova file in VirtualBox (check the tutorial)
 ```
