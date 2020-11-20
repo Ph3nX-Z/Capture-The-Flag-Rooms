@@ -14,7 +14,7 @@
 ![](tuto3.png)
 
 ## When The Importation Is Finished Click on Start
-![](tuto4.png)
+![](tuto4,5.png)
 
 ## Wait For The Machine To Boot Up
 
