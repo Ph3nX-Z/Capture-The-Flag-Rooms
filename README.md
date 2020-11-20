@@ -10,10 +10,9 @@
 
 #### If You Have Any Problem with VirtualBox check The [VirtualBox Tuto](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/blob/main/Tuto-VirtualBox/README.md)
 ---------------------------------------------------------------------------------------------
-#### If you cleared one of the CTF please send me your github username and a proof to be shown in the scoreboard (Ph3nX#2514)
 
 # Scoreboard:
-
+#### If you cleared one of the CTF please send me your github username and a proof to be shown in the scoreboard (Ph3nX#2514)
 | Position | StegSlice | Ph3nx-CTF-1 | 
 |----------|-----------|-------------| 
 |    1     |     *     |      *      |
