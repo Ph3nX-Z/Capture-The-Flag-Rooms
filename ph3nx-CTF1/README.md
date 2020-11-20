@@ -4,7 +4,7 @@
 
 ```sh
 - Download the .ova file below
-- Launch it in virtualbox and start the challenge
+- Install The ova file in VirtualBox (check the tutorial)
 ```
 * [Ova File](https://mega.nz/file/E8Zk3bRZ#SgIZCwWAVCmpU2MR1foBCfwcOTx3gusJCD_g9-Dup3Y)
 
