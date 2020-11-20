@@ -16,7 +16,7 @@
 #### If you cleared one of the CTF please send me your github username and a proof to be shown in the scoreboard (Ph3nX#2514)
 | Position | StegSlice | Ph3nx-CTF-1 | 
 |----------|-----------|-------------| 
-|    1     |     *     |      *      |
+|    1     |     *     |[Mr.Noodle](https://github.com/branoodle)|
 |    2     |     *     |      *      |
 |    3     |     *     |      *      |
 
