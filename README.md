@@ -14,3 +14,11 @@
 ### Good Luck And Have Fun 
 ![Alt Text](source.gif)
 
+
+# Scoreboard:
+
+  | StegSlice | Ph3nx-CTF-1 | 
+  |-----------|-------------| 
+1 |     *     |      *      |
+2 |     *     |      *      |
+3 |     *     |      *      |
