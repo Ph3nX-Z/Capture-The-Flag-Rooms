@@ -27,5 +27,6 @@
 * Check if you allocated at least 1gb of ram to the vm
 * Check if your router is on
 * Check if you generated a new pair of mac adresses (step 3)
+* Check if your computer is on the same network than the vm
 
 ## Clear The Room :)
