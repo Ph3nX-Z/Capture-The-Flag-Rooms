@@ -22,7 +22,7 @@
 ## Check If Your Machine Is On The Network (netdiscover)
 ![](tuto5.png)
 
-## Your Machine Isn't On The Network:
+# Your Machine Isn't On The Network:
 * Check if the internet acces is on bridge mod
 * Check if you allocated at least 1gb of ram to the vm
 * Check if your router is on
