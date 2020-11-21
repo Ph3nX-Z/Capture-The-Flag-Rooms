@@ -6,7 +6,7 @@
 
 * 1: [Stegslice](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/Stegslice)  : Steganography + Easy Privesc
 * 2: [ph3nx-CTF1](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF1) : Privesc
-
+* 3: [ph3nx-CTF3]
 --------------------------------------------------------------------------------------------
 
 #### If You Have Any Problem with VirtualBox check The [VirtualBox Tuto](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/blob/main/Tuto-VirtualBox/README.md)
@@ -14,11 +14,11 @@
 
 # Scoreboard:
 #### If you cleared one of the CTF please send me your github username and a proof to be shown in the scoreboard (Ph3nX#2514)
-| Position | StegSlice | Ph3nx-CTF-1 | 
-|----------|-----------|-------------| 
-|    1     |[Mr.Noodle](https://github.com/branoodle)     |[Mr.Noodle](https://github.com/branoodle)|
-|    2     |     *     |      *      |
-|    3     |     *     |      *      |
+| Position | StegSlice | Ph3nx-CTF-1 | Ph3nx-CTF-3 |
+|----------|-----------|-------------|-------------|
+|    1     |[Mr.Noodle](https://github.com/branoodle)     |[Mr.Noodle](https://github.com/branoodle)|       *      |
+|    2     |     *     |      *      |             |
+|    3     |     *     |      *      |             |
 
 --------------------------------------------------------------------------------------------------
 
