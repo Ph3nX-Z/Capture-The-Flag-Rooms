@@ -6,7 +6,7 @@
 - Download the .ova file below
 - Install The ova file in VirtualBox (check the tutorial)
 ```
-* [Ova File](https://mega.nz/file/I5ZhGIyB#YETtrGvQU2vaAK6Eb39ElYwq8HvRRdsmSnK2p7fXHFE)
+* [Ova File](https://mega.nz/file/5xh3wIaB#01IZndcFEBWje_l5GmPdWxcF541m47y6agpg0VCVm20)
 
 ## Goal
 
