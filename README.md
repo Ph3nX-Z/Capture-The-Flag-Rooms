@@ -3,10 +3,11 @@
 
 ## Summary
 
-
-* 1: [Stegslice](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/Stegslice)   :  Steganography + Easy Privesc
-* 2: [ph3nx-CTF1](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF1) :  Privesc
-* 3: [ph3nx-CTF3](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF3) :  Privesc + Enum
+|Number|Ctf Name|Theme|Difficulty|
+|------|--------|-----|----------|
+|1     | [Stegslice](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/Stegslice) | Steganography + Easy Privesc | Hard |
+|2     | [ph3nx-CTF1](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF1)| Privesc |  Easy |
+|3     | [ph3nx-CTF3](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF3)|  Privesc + Enum | Medium |
 --------------------------------------------------------------------------------------------
 
 #### If You Have Any Problem with VirtualBox check The [VirtualBox Tuto](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/blob/main/Tuto-VirtualBox/README.md)
