@@ -1,5 +1,11 @@
 # Batman CTF
 #### Keywords : ssh, hidden, privesc
+
+## Preview:
+
+![](hidden.png)
+
+
 ## Installation
 
 ```sh
