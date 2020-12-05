@@ -8,7 +8,7 @@
 |1     | [Stegslice](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/Stegslice) | Steganography + Easy Privesc | Hard |
 |2     | [ph3nx-CTF1](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF1)| Privesc |  Easy |
 |3     | [ph3nx-CTF3](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/ph3nx-CTF3)|  Privesc + Enum | Medium |
-|4     | [Batman CTF](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/Batman)| Hidden + Privesc | Advanced|
+|4     | [Batman CTF](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/tree/main/Batman)| Steganography + Privesc | Advanced|
 --------------------------------------------------------------------------------------------
 
 #### If You Have Any Problem with VirtualBox check The [VirtualBox Tuto](https://github.com/Ph3nX-Z/Capture-The-Flag-Rooms/blob/main/Tuto-VirtualBox/README.md)
