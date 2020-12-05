@@ -1,5 +1,8 @@
 # Stegslice
 #### Keywords : Ssh, Privesc
+
+![](apple.png)
+
 ## Installation:
 ```sh
 - Dowload The ova file below
