@@ -11,6 +11,7 @@
 - Install The ova file in VirtualBox (check the tutorial)
 ```
 * [Ova File](https://mega.nz/file/kpwkmZgS#kOv6_clUv1KklVh4vw1TqPAFzMb2tIAdPxbS279rpFU)
+* [Hosted Version](https://tryhackme.com/jr/batmanctf)
 
 ## Goal
 
