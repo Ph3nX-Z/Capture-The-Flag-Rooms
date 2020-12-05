@@ -1,7 +1,7 @@
 # Stegslice
 #### Keywords : Ssh, Privesc
 
-![](apple.png)
+![](apple.jpg)
 
 ## Installation:
 ```sh
