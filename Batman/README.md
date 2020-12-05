@@ -1,5 +1,5 @@
 # Batman CTF
-#### Keywords : ssh, hidden, privesc
+#### Keywords : ssh, Steganography, privesc
 
 ![](hidden2.png)
 
