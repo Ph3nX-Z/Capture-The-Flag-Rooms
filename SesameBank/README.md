@@ -18,7 +18,7 @@ Hosted Version:
 ```
 
 * [Ova File](https://mega.nz/file/UtRWkRAZ#H58fm_8gjpr3FV3zqra8GUZq0bg6VDBxHBvZ5O-n4OE)
-* [Hosted Version]()
+* [Hosted Version](https://tryhackme.com/jr/cookiestf)
 
 ## Goal
 
